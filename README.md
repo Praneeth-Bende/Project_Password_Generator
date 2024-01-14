@@ -1,2 +1,2 @@
 # Project_Password_Generator
-Password Generator
+In this project I have created a secure password generator in Python using the 'random' and 'string' modules. This program generates strong passwords by combining random characters from the string module, including uppercase and lowercase letters, digits, and special symbols. Employ the 'random' module to shuffle the characters, enhancing unpredictability. Allow customization of password length and complexity for user flexibility. Implementing this script ensures robust password creation for enhanced online security, offering a versatile tool for generating unique and resilient passwords tailored to specific requirements.
